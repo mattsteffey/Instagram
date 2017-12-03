@@ -2,6 +2,10 @@
 	font-family: helvetica;
 }
 
+a {
+	text-decoration: none;
+	color: #567da0;
+}
 
 .phones {
 	display: inline;
